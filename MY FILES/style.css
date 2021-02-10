@@ -1,0 +1,56 @@
+body
+
+
+
+/* rainbow */
+div.Font{
+    font-size: 38px;
+}
+
+
+
+/* Standar Syntax */
+@keyframes rainbow{
+	5%{color: #ffff00;}
+	10%{color: #ffcc00;}
+	15%{color: #ff9933;}
+	20%{color: #ff6600;}
+	25%{color: #ff471a;}
+	30%{color: #ff8533;}
+	35%{color: #ff6666;}
+	40%{color: #ff6699;}
+	45%{color: #ff66cc;}
+	50%{color: #ff66ff;}
+	55%{color: #ff99ff;}
+	60%{color: #ff99cc;}
+	65%{color: #ff9999;}
+	70%{color: #ffcc99;}
+	75%{color: #ffcc66;}
+	80%{color: #ffcc00;}
+	85%{color: #ffff66;}
+	90%{color: #ffff99;}
+	95%{color: #ffcc66;}
+	100%{color: #ff6600;}
+}
+@keyframes border-rainbow{
+	5%{border-color: #ffff00;}
+	10%{border-color: #ffcc00;}
+	15%{border-color: #ff9933;}
+	20%{border-color: #ff6600;}
+	25%{border-color: #ff471a;}
+	30%{border-color: #ff8533;}
+	35%{border-color: #ff6666;}
+	40%{border-color: #ff6699;}
+	45%{border-color: #ff66cc;}
+	50%{border-color: #ff66ff;}
+	55%{border-color: #ff99ff;}
+	60%{border-color: #ff99cc;}
+	65%{border-color: #ff9999;}
+	70%{border-color: #ffcc99;}
+	75%{border-color: #ffcc66;}
+	80%{border-color: #ffcc00;}
+	85%{border-color: #ffff66;}
+	90%{border-color: #ffff99;}
+	95%{border-color: #ffcc66;}
+	100%{border-color: #ff6600;}
+}

@@ -1,5 +1,5 @@
 <!DOCTYPE = HTML>
-<!-- V4.0 edward1337.xyz ! Please do not copy the index without permission. If you do anyways don't be a dickhead and leave credits. Thank you, Edward. -->
+
 <html lang =en>
 
 
@@ -442,5 +442,5 @@ RewriteRule ^.* - [F,L]
 
 
 
-Copyright ©2019 Edward1337 </h6>
+Copyright Edward1337 </h6>
 </html>
